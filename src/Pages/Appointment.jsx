@@ -1,4 +1,4 @@
-// import React from "react";
+
 import Piyush_Pandya from "../IMG/Leaders/Piyush_Pandya.png"
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';

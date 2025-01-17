@@ -14,11 +14,7 @@ function Footer() {
       <div className="row g-5">
         <div className="col-lg-3 col-md-6">
           <h2 className="text-white mb-4" style={{textShadow: "2px 2px 2px #000000"}}>
-            {/* <img
-      class="img-fluid me-3"
-      src="img/icon/icon-02-light.png"
-      alt=""
-    />Insure */}
+           
             PWS IMF PVT. LTD.
           </h2>
           <p>
@@ -31,15 +27,15 @@ function Footer() {
               <img src={instagram} height="50px" alt="" />
             </a>
             <a className="btn btn-square me-1" href="https://www.facebook.com/primewealthcaresolution/" target="_blank">
-              {/* <i className="fab fa-facebook-f" /> */}
+              
               <img src={facebook} height="50px" alt="" />
             </a>
             <a className="btn btn-square me-1" href="https://www.youtube.com/@primewealthcaresolutionpvtltd" target="_blank">
-              {/* <i className="fab fa-youtube" /> */}
+             
               <img src={youtube} height="45px" alt="" />
             </a>
             <a className="btn btn-square me-0" href="https://www.linkedin.com/company/prime-wealthcare-solution-pvt-ltd/" target="_blank">
-              {/* <i className="fab fa-linkedin-in" /> */}
+              
               <img src={linkedin} height="45px" alt="" />
             </a>
           </div>
@@ -121,8 +117,6 @@ function Footer() {
           <div className="col-md-6 text-center text-md-end" style={{textShadow: "2px 2px 2px #000000", wordSpacing:"1px", letterSpacing:"1px"}}>
             Design and develop By
             <a href="tel:+91 9106734041" target="_blank">  Arunn Yadav</a>
-            {/* <br />Distributed By: */}
-            {/* <a href="https://themewagon.com" target="_blank">ThemeWagon</a> */}
           </div>
         </div>
       </div>

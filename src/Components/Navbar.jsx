@@ -1,10 +1,5 @@
 import React from "react";
 import logo from '../IMG/logo.png'
-import { NavLink } from "react-router-dom";
-// import Facebook from "../IMG/Facebook.gif"
-// import Youtube from "../IMG/Youtube.gif"
-// import Linkdin from "../IMG/Linkdin.gif"
-// import Instagram from "../IMG/Instagram.gif"
 
 import facebook from "../IMG/facebook.png"
 import instagram from "../IMG/instagram.png"
@@ -53,19 +48,19 @@ function Navbar() {
                 href="https://www.youtube.com/@primewealthcaresolutionpvtltd"
                 target="_blank">
                   <img src={youtube} height="28px" alt="" />
-                {/* <i className="fab fa-youtube" /> */}
+                
               </a>
               <a className="text-white ms-4"
                 href="https://www.linkedin.com/company/prime-wealthcare-solution-pvt-ltd/"
                 target="_blank">
                   <img src={linkedin} height="28px" alt="" />
-                {/* <i className="fab fa-linkedin-in" /> */}
+                
               </a>
               <a className="text-white ms-4"
                 href="https://www.instagram.com/primewealthcare_imf/"
                 target="_blank">
                   <img src={instagram} height="30px" alt="" />
-                {/* <i className="fab fa-instagram" /> */}
+               
               </a>
             </div>
           </div>

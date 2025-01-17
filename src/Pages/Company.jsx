@@ -581,9 +581,7 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                 </div>
               </div>
             </div>
-            {/* <div className="col-md-2 wow fadeInUp" data-wow-delay="0.7s">
-              <button className="btn  border-0 w-100 py-3" style={{ background: "#276c63", color: "white" }}>Search </button>
-            </div> */}
+            
 
             {/* Product Details Section */}
             {selectedProduct && (
@@ -624,32 +622,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     <h5 className="text-white">
                       <strong className="text-dark"> BENEFITS:-</strong> {selectedProduct.benefits}
                     </h5>
-                    {/* <p>
-                      <strong>Sub-Products:</strong>
-                    </p>
-                    <ul>
-                      {selectedProduct.subProducts.map((sub, index) => (
-                        <li key={index}>{sub}</li>
-                      ))}
-                    </ul>
-                    <p>
-                      <strong>Learn More:</strong>
-                    </p> */}
+                   
                   </div>
 
-                  {/* Right column for video */}
-                  {/* <div className="col-md-6">
-                    <div className="ratio ratio-16x9">
-                      <iframe
-                        src={selectedProduct.youtubeLink}
-                        title="YouTube video"
-                        frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        style={{ borderRadius: "15px", boxShadow: "0 4px 8px rgba(0, 0, 0, 0.5)" }}
-                      ></iframe>
-                    </div>
-                  </div> */}
+                  
                 </div>
 
                 {/* Bottom links */}
@@ -742,15 +718,7 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     className="company"
                     height="100px"
                   />
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Insurance is a key component of long-term financial
-                    planning. Life insurance, for example, ensures that your
-                    family is taken care of in your absence. Similarly,
-                    disability insurance protects your income in case you're
-                    unable to work.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                 
                 </div>
               </div>
             </div>
@@ -765,21 +733,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="hdfc_img"
                     className="company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">HDFC Ergo</div>
-                  <div className="designation">
-                    <b>CEO :- Ritesh Kumar </b>
-                  </div> */}
+                  
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Knowing you're insured brings a sense of security. For
-                    example, health insurance assures that you can access
-                    medical care when needed, while auto insurance ensures that
-                    you're covered in case of an accident. This peace of mind is
-                    invaluable, especially in stressful situations.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={hdfc_img}
                     alt="hdfc_img"
@@ -799,21 +756,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="care_img"
                     className="company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">Care</div>
-                  <div className="designation">
-                    <b>CEO :- Anuj Gulati</b>
-                  </div> */}
+                  
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Knowing you're insured brings a sense of security. For
-                    example, health insurance assures that you can access
-                    medical care when needed, while auto insurance ensures that
-                    you're covered in case of an accident. This peace of mind is
-                    invaluable, especially in stressful situations.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={care_img}
                     alt="care_img"
@@ -834,19 +780,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     className="company"
                     height="80px"
                   />
-                  {/* <div className="pt-3 text-uppercase name">ICICI</div>
-                  <div className="designation">
-                    <b>Director</b>
-                  </div> */}
+                  
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Successful health reform must not just make health insurance
-                    affordable, affordable health insurance has to make health
-                    care affordable
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={ICICI}
                     alt="ICICI"
@@ -867,21 +804,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="niva_img"
                     className="company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">Niva Bupa</div>
-                  <div className="designation">
-                    <b>Founder President And MD</b>
-                  </div> */}
+                 
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Insurance is a key component of long-term financial
-                    planning. Life insurance, for example, ensures that your
-                    family is taken care of in your absence. Similarly,
-                    disability insurance protects your income in case you're
-                    unable to work.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={niva_img}
                     alt="niva_img"
@@ -901,21 +827,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="Mitsu_Pandya"
                     className="company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">Tata Aig</div>
-                  <div className="designation">
-                    <b>Director</b>
-                  </div> */}
+                 
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Insurance also plays a role in broader societal stability.
-                    For instance, health insurance contributes to public health
-                    by enabling more people to access care, and liability
-                    insurance can protect others from financial harm caused by
-                    your actions.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={tata_img}
                     alt="Mitsu_Pandya"
@@ -935,21 +850,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="Mehul_Pradhan"
                     className="Company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">Ifco tokio</div>
-                  <div className="designation">
-                    <b>SME-Retail Head</b>
-                  </div> */}
+                 
                 </div>
                 <div className="face back-face">
-                  {/*<span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Knowing you're insured brings a sense of security. For
-                    example, health insurance assures that you can access
-                    medical care when needed, while auto insurance ensures that
-                    you're covered in case of an accident. This peace of mind is
-                    invaluable, especially in stressful situations.
-                  </div>
-                  <span className="fas fa-quote-right" />*/}
+                  
                   <img
                     src={iffco_img}
                     alt="Mehul_Pradhan"
@@ -969,21 +873,10 @@ Person will get the accrued continuity benefits in waiting periods as per IRDAI 
                     alt="Mehul_Pradhan"
                     className="company"
                   />
-                  {/* <div className="pt-3 text-uppercase name">lic</div>
-                  <div className="designation">
-                    <b>SME-Retail Head</b>
-                  </div> */}
+                
                 </div>
                 <div className="face back-face">
-                  {/* <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    Knowing you're insured brings a sense of security. For
-                    example, health insurance assures that you can access
-                    medical care when needed, while auto insurance ensures that
-                    you're covered in case of an accident. This peace of mind is
-                    invaluable, especially in stressful situations.
-                  </div>
-                  <span className="fas fa-quote-right" /> */}
+                  
                   <img
                     src={lic_img}
                     alt="Mehul_Pradhan"

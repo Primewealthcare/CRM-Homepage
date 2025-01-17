@@ -185,21 +185,7 @@ function Contact() {
                 </div>
               </div>
             </div>
-            {/* <div className="col-lg-4 col-xl-3  col-sm-6 wow fadeInUp" style={{ animationDelay: '0.4s' }}>
-              <div className="card">
-                <div className="face front-face">
-                  <div className="pb-3 text-uppercase name" style={{ fontSize: 'larger' }}> <b>Bhavnagar</b></div>
-                  <div className="location text-center">403/404, Bhayani Skyline, Atabhai Rd, nr. Prayosha Fast Food, Chowk, Bhavnagar, Gujarat 364002, India </div>
-                </div>
-                <div className="face back-face">
-                  <span className="fas fa-quote-left" />
-                  <div className="testimonial">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3705.606832297112!2d72.14898400000001!3d21.756763!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395f5bb56305378d%3A0x6371473bfb5933da!2sPRIME%20WEALTHCARE%20SOLUTION%20IMF%20PVT.LTD.!5e0!3m2!1sen!2sza!4v1725625212797!5m2!1sen!2sza" style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
-                  </div>
-                  <span className="fas fa-quote-right" />
-                </div>
-              </div>
-            </div> */}
+            
           </div>
         </div>
       </div>
