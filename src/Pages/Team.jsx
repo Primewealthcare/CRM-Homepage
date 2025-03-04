@@ -9,7 +9,7 @@ import Hitesh_Kheradiya from "../IMG/Leaders/Hitesh_Kheradiya.png"
 import mitsu12 from "../IMG/Leaders/mitsu12.png"
 import pratikbhai from "../IMG/Leaders/pratikbhai.png"
 // import aamit from "../IMG/Leaders/aamit.png"
-import satish_jani from "../IMG/Leaders/satish_jani.png"
+// import satish_jani from "../IMG/Leaders/satish_jani.png"
 
 import WhatsAppBtnn from ".///../IMG/WhatsAppBtnn.png"
 
@@ -234,7 +234,7 @@ function Team() {
                 </div>
               </div>
             </div>
-            <div
+{/*             <div
               className="col-lg-3 col-md-6 wow fadeInUp"
               data-wow-delay="0.7s"
             >
@@ -278,7 +278,7 @@ function Team() {
                 </div>
               </div>
             </div>
-            <div
+            <div */}
               className="col-lg-3 col-md-6 wow fadeInUp"
               data-wow-delay="0.7s"
             >
