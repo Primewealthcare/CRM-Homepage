@@ -370,14 +370,14 @@ function Team() {
                 <img className="img-fluid" src={pratikbhai} alt />
                 <div className="text-center p-4">
                   <h5>Pratik Barot</h5>
-                  <span>  Assistant Director <br /> (Ahmedabad) </span>
+                  <span>  Assistant Director <br /> (Ahmedabad, Vadodara) </span>
                 </div>
                 <div
                   style={{ background: "#dcfcf4" }}
                   className="team-text text-center p-4"
                 >
                   <h5>Pratik Barot</h5>
-                  <p> Assistant Director <br /> (Ahmedabad)</p>
+                  <p> Assistant Director <br /> (Ahmedabad, Vadodara)</p>
                   <div className="d-flex justify-content-center">
                     <a
                       className="btn btn-square btn-light m-1"
