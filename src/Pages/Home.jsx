@@ -14,7 +14,7 @@ import mitsu12 from "../IMG/Leaders/mitsu12.png"
 import Bharatsinh from "../IMG/Leaders/Bharatsinh.png"
 import Hitesh_Kheradiya from "../IMG/Leaders/Hitesh_Kheradiya.png"
 import Mehul_Pradhan from "../IMG/Leaders/Mehul_Pradhan.png"
-import satish_jani from "../IMG/Leaders/satish_jani.png"
+// import satish_jani from "../IMG/Leaders/satish_jani.png"
 
 import pratik from "../IMG/Leaders/pratik.png"
 // import amit_solanki from "../IMG/Leaders/amit_solanki.png"
@@ -394,14 +394,14 @@ function Home() {
             <h5>Bharatsinh Solanki</h5>
             <span>Leader (Bhavnagar, Rajkot)</span>
           </div>
-          <div className="testimonial-item text-center">
+{/*           <div className="testimonial-item text-center">
             <img className="img-fluid rounded mx-auto mb-4" src={satish_jani} alt />
             <p className="fs-5">
             Helth insurance must be in human life value Nobody have plan of Express of emergency hospitalisation  💡
             </p>
             <h5>Satish Jani</h5>
             <span>Leader (Vadodara)</span>
-          </div>
+          </div> */}
           <div className="testimonial-item text-center">
             <img className="img-fluid rounded mx-auto mb-4" src={pratik} alt />
             <p className="fs-5">
