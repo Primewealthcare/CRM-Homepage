@@ -408,7 +408,7 @@ function Home() {
             “Mediclaim policy means the security of your savings. we provide the best mediclaim policy in India, offering comprehensive, 24/7 risk coverage to protect you and your family. Our policies cover a wide range of medical needs, ensuring full support during any medical emergency with the largest support system and expert guidance. Choose Prime Wealth Care Solutions and secure your future with trusted coverage and peace of mind.”
             </p>
             <h5>Pratik Barot</h5>
-            <span>Leader (Ahmedabad)</span>
+            <span>Leader (Ahmedabad, Vadodara)</span>
           </div>
           {/* <div className="testimonial-item text-center">
             <img className="img-fluid rounded mx-auto mb-4" src={amit_solanki} alt />
