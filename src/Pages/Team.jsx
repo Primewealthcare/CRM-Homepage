@@ -279,7 +279,7 @@ function Team() {
               </div>
             </div>
             <div */}
-              className="col-lg-3 col-md-6 wow fadeInUp"
+              className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-delay="0.7s"
             >
               <div className="team-item rounded">
@@ -321,7 +321,7 @@ function Team() {
               </div>
             </div>
             <div
-              className="col-lg-3 col-md-6 wow fadeInUp"
+              className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-delay="0.7s"
             >
               <div className="team-item rounded">
@@ -363,7 +363,7 @@ function Team() {
               </div>
             </div>
             <div
-              className="col-lg-3 col-md-6 wow fadeInUp"
+              className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-delay="0.7s"
             >
               <div className="team-item rounded">
